@@ -5,4 +5,4 @@ metadata:
 spec:
  containers:
  - name: c1
-   image: rajesh1218/dockerjenkins:latest
+   image: quay.io/gauravkumar9130/mywebapp
